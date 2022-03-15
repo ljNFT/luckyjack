@@ -276,7 +276,7 @@ function App() {
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  MINT START 1 APRIL 2022.
+                  MINTING NOW.
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
