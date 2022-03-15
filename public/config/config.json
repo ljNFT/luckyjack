@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5e54a885f3b4c39cfe7936533f20f0352b510857",
+  "SCAN_LINK": "https://testnet.ftmscan.com/address/0x5e54a885f3b4c39cfe7936533f20f0352b510857",
+  "NETWORK": {
+    "NAME": "Fantom Opera",
+    "SYMBOL": "FTM",
+    "ID": 250
+  },
+  "NFT_NAME": "lucky_jack",
+  "SYMBOL": "LJNFT",
+  "MAX_SUPPLY": 1777,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "PaintSwap",
+  "MARKETPLACE_LINK": "https://paintswap.finance/collection/lucky_jack",
+  "SHOW_BACKGROUND": true
+}

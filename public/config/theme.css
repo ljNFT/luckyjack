@@ -1,0 +1,65 @@
+:root {
+  --primary: #5a82b600;
+  --primary-text: #000000;
+  --secondary: #00CECA;
+  --secondary-text: #ffffff;
+  --accent: #00000000;
+  --accent-text: #080808;
+  --third: orange;
+}
+
+#main-container{
+  margin: 0 auto;
+  padding: 0;
+  align-content: center;
+  background: linear-gradient(0deg, rgba(32,200,156,1) 50%, rgba(45,253,167,1) 100%);
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+/* color y tamano */
+
+#main-container main h1 {
+  padding-top: 20px;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 5rem;
+  font-weight: 400;
+    background: orange;
+    background: -webkit-gradient(linear,left top,right top,from(orange),to(red
+    ));
+    background: -webkit-linear-gradient(left,orange,red);
+    background: linear-gradient(
+90deg
+,orange,red);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#main-container main p{
+  padding-top: 10px;
+  color:white;
+  font-size: 30px;
+  font-family: 'Press Start 2P', cursive;
+}
+
+
+/* contenido */
+
+.main_box{
+  margin: 0 auto;
+  width: 100%;
+  align-items: center;
+}
+
+.text {
+  padding: 0;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+}
+
